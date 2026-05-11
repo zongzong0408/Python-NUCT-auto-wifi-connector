@@ -29,8 +29,8 @@
 ```text
 Python-NUCT-auto-wifi-connector/
 ├── run.py                 # 核心執行程式碼
-├── chromedriver.exe       # Chrome 驅動程式 [cite: 1]
-└── chrome-win64/          # Chrome 可攜式瀏覽器資料夾 [cite: 1]
+├── chromedriver.exe       # Chrome 驅動程式
+└── chrome-win64/          # Chrome 可攜式瀏覽器資料夾
     └── chrome.exe
 ```
 
